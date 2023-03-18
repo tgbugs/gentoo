@@ -1,4 +1,4 @@
-# Copyright 1999-2019 Gentoo Authors
+# Copyright 1999-2023 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
 # Michael Haubenwallner <haubi@gentoo.org> (2019-06-07)
@@ -6,9 +6,9 @@
 # see https://cygwin.com/ml/cygwin/2019-06/msg00092.html
 >=app-portage/portage-utils-0.80_pre
 
-# Michael Haubenwallner <haubi@gentoo.org> (2019-06-07)
+# Tom Gillespie <tgbugs@gmail.com> (2023-03-17)
 # Cygwin does not provide this new version yet in it's repo.
->=sys-devel/gcc-8.4
+>=sys-devel/gcc-12
 
 # Michael Haubenwallner <haubi@gentoo.org> (2019-02-13)
 # see upstream report https://savannah.gnu.org/bugs/index.php?55708
